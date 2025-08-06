@@ -1,7 +1,7 @@
 # greenhouse-mcp-server-by-cdata
 CData's Model Context Protocol (MCP) Server for Greenhouse
 
-:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our free [CData MCP Server for Greenhouse (beta)](https://www.cdata.com/download/download.aspx?sku=PGZK-V&type=beta). 
+:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our free [CData MCP Server for Greenhouse (beta)](https://www.cdata.com/download/download.aspx?sku=PGZM-V&type=beta). 
 ## Purpose
 We created this read-only MCP Server to allow LLMs (like Claude Desktop) to query live data Greenhouse supported by the [CData JDBC Driver for Greenhouse](https://www.cdata.com/drivers/greenhouse/jdbc).
 
